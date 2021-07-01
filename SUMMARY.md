@@ -6,7 +6,6 @@
 
 ## react
 
-* [Untitled](react/untitled.md)
 * [리액트에서 Vue의 slot 기능 사용](react/vue-slot.md)
 * [아토믹 디자인 시스템](react/untitled-1.md)
 
