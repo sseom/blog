@@ -1,8 +1,16 @@
 # Table of contents
 
-* [blog](README.md)
+* [Sseom's Coding Blog](README.md)
 
-## UI
+## Coding Diary
+
+## react
+
+* [Untitled](react/untitled.md)
+* [리액트에서 Vue의 slot 기능 사용](react/vue-slot.md)
+* [아토믹 디자인 시스템](react/untitled-1.md)
+
+## HTML/CSS <a id="ui"></a>
 
 * [Untitled](ui/untitled.md)
 
@@ -10,19 +18,15 @@
 
 * [Untitled](js/untitled.md)
 
-## React
-
-* [Untitled](react/untitled.md)
-
-## Vue
+## vue
 
 * [Untitled](vue/untitled.md)
 
-## Issue
+## issue
 
 * [Untitled](issue/untitled.md)
 
-## Etc
+## etc
 
 * [Untitled](etc/untitled.md)
 
