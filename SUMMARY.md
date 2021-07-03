@@ -15,7 +15,7 @@
 
 ## HTML/CSS <a id="ui"></a>
 
-* [최소 터치 영역](ui/untitled.md)
+* [모바일 최소 터치 영역](ui/untitled.md)
 
 ## JS
 
@@ -32,4 +32,8 @@
 ## etc
 
 * [포트 에러 address already in use](etc/untitled.md)
+
+## UXI
+
+* [버튼 UI 참고글 브런치](uxi/ui.md)
 
