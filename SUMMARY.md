@@ -15,7 +15,7 @@
 
 ## HTML/CSS <a id="ui"></a>
 
-* [Untitled](ui/untitled.md)
+* [최소 터치 영역](ui/untitled.md)
 
 ## JS
 
