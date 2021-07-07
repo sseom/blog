@@ -27,13 +27,15 @@
 
 ## issue
 
-* [Untitled](issue/untitled.md)
-
-## etc
-
-* [포트 에러 address already in use](etc/untitled.md)
+* [포트 에러 address already in use](issue/untitled-1.md)
 
 ## UXI
 
 * [버튼 UI 관련 브런치 추천글](uxi/ui.md)
+
+## etc
+
+---
+
+* [말과 따로 노는 지식, 머리만 기억하는 지식](untitled.md)
 
