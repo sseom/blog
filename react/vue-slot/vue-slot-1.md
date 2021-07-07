@@ -11,6 +11,7 @@ import React, { ReactElement } from 'react';
 import styled from 'styled-components';
 
 interface DefaultProps {
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   children?: any;
   title?: string;
 }

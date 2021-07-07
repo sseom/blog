@@ -38,6 +38,7 @@ import React, { ReactElement } from 'react';
 import styled from 'styled-components';
 
 interface DefaultProps {
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   children?: any;
   title?: string;
 }
@@ -55,6 +56,7 @@ const SubTitle= ({ children }: ElProps): ReactElement => <stong>{children}</ston
 
 const Title = ({ title, children }: DefaultProps): ReactElement => {
   const elements = React.Children.toArray(children);
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const subTitle = elements.find((element: any) => element.type.name === 'SubTitle');
 
   return (
