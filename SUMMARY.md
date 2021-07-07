@@ -6,7 +6,11 @@
 
 ## react
 
-* [리액트에서 Vue의 slot 기능 사용](react/vue-slot.md)
+* [Render Props](react/render-props.md)
+* [리액트에서 Vue의 slot 기능 사용](react/vue-slot/README.md)
+  * [리액트에서 Vue의 slot 기능 사용 예시1](react/vue-slot/vue-slot-1.md)
+  * [리액트에서 Vue의 slot 기능 사용 예시2](react/vue-slot/vue-slot-2.md)
+  * [리액트에서 Vue의 slot 기능 사용 예시3](react/vue-slot/vue-slot-3.md)
 * [아토믹 디자인 시스템](react/untitled-1.md)
 
 ## styled-components
