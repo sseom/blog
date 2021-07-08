@@ -11,7 +11,7 @@
   * [리액트에서 Vue의 slot 기능 사용 예시1](react/vue-slot/vue-slot-1.md)
   * [리액트에서 Vue의 slot 기능 사용 예시2](react/vue-slot/vue-slot-2.md)
   * [리액트에서 Vue의 slot 기능 사용 예시3](react/vue-slot/vue-slot-3.md)
-* [아토믹 디자인 시스템](react/untitled-1.md)
+  * [리액트에서 Vue의 slot 기능 사용 예시4](react/vue-slot/vue-slot-4.md)
 
 ## styled-components
 
@@ -19,6 +19,7 @@
 
 ## HTML/CSS <a id="ui"></a>
 
+* [Flex 플렉스, Grid 그리드](ui/flex-grid.md)
 * [모바일 최소 터치 영역](ui/untitled.md)
 
 ## JS
@@ -35,6 +36,7 @@
 
 ## UXI
 
+* [아토믹 디자인 시스템](uxi/untitled-1.md)
 * [버튼 UI 관련 브런치 추천글](uxi/ui.md)
 
 ## etc
