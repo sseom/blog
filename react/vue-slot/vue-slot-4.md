@@ -13,7 +13,7 @@ description: 가장 바보 같았던.. 내용 일수도.. ㅋㅋㅋ
 
 ### 해결 방법
 
-#### 1. elements 확
+#### 1. elements 확인 
 
 children 영역에 원하는대로 다 넣어보고 elements를 콘솔로 찍어보자   
 배열이 나오고 배열 안에는 children 영역에 넣은 요소들이 객체로 들어가 있다.
@@ -23,7 +23,7 @@ const elements = React.Children.toArray(children);
 console.log(elements); // [{…}, {…}, {…}, {…}] 배열 안에 객체들로 나온다.
 ```
 
-#### 2. subTitle 확
+#### 2. subTitle 확인 
 
 subTitle을 콘솔로 찍어보자  
 리액트 엘레먼트 객체가 나오는데  문제는 자식이 영역에 넣은 여러가지중 딱 한개만 나온다는 것!  
@@ -101,7 +101,7 @@ return (
 );
 ```
 
-#### 6. 수 코드 
+#### 6. 수정된  코드  
 
 ```text
 import React, { ReactElement } from 'react';
