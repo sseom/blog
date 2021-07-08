@@ -140,7 +140,9 @@ export default Section;
 
 
 
-### 근데 모든게 다 바보같은 짓이였다.  그냥 { children }  만 있음 돼  😭
+### 근데 모든게 다 바보 짓이 였다.  SubTitle, Content 와 children 만 있음 됐다.  😭
+
+나는 할 말이 없도다. ㅋㅋㅋㅋㅋㅋ쿠ㅜㅜㅜㅜㅜ
 
 ### 최종 코드
 
